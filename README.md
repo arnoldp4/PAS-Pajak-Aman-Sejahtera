@@ -1,2 +1,2 @@
 # PAS-Pajak-Aman-Sejahtera
-Proyek praktis untuk membuat sistem pajak lebih aman karena security dari sistem online.
+Sistem perpajakan pada jaman sekarang masih saja serba menggunakan sistem biasa yang dimana warga negara harus datang melakukan pembayaran secara manual serta keamanan yang tidak bagus dikarenakan bisa terjadi human error terhadap pegawai maupun konsumen. Lebih parahnya, beberapa pegawai dapat meng-“korupsi” akan kesalahan-kesalahan yang terjadi. Maka dari itu, kelompok kami akan membuat program Sistem Pajak yang lebih praktis dan dijamin aman karena security dari sistem online.
